@@ -1,2 +1,2 @@
 # Tinder-Dos-Dogs
-Projeto TinDog com Css e Html 
+Projeto  Básico TinDog com Css e Html 
